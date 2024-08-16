@@ -1,0 +1,14 @@
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\bin\Debug\net8.0\DopzadanieNN.exe
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\bin\Debug\net8.0\DopzadanieNN.deps.json
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\bin\Debug\net8.0\DopzadanieNN.runtimeconfig.json
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\bin\Debug\net8.0\DopzadanieNN.dll
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\bin\Debug\net8.0\DopzadanieNN.pdb
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.AssemblyInfo.cs
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.dll
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\refint\DopzadanieNN.dll
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.pdb
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\DopzadanieNN.genruntimeconfig.cache
+C:\Users\Nadezhda\source\repos\lab2\DopzadanieNN\obj\Debug\net8.0\ref\DopzadanieNN.dll
